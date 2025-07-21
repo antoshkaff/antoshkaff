@@ -4,9 +4,11 @@
 
 # Hi, I'm Nikita! 👋
 
-💻 **Frontend Developer**.  
-🎓 **Student** at Odessa Polytechnic University _(Software Engineering)_.  
+💻 **Frontend Developer**  
+🎓 **Student** at Odessa Polytechnic University _(Software Engineering)_  
 🎨 **I love creativity in development** – for me, programming is not just about code but also a way to express my creativity and build unique projects.
+
+---
 
 ## 💡 What am I passionate about?
 
@@ -14,43 +16,46 @@
 - Exploring new technologies in web development 🚀
 - Participating in academic and personal projects to level up my skills 💪
 
-## ✨ My current skills
+---
 
-<br><br>
+## ⚙️My Current Skills
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo" />
-        <br/><strong>HTML</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo" />
-        <br/><strong>CSS</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" />
-        <br/><strong>JavaScript</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+### ✨ Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React icons" />
+  </a>
+</p>
 
-<br><br>
+
+### 🧠 Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express icons" />
+  </a>
+</p>
+
+
+### ⚡ Tools & Other
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,firebase,figma,github" alt="Vite, Firebase, Figma icons" />
+  </a>
+</p>
+
+
+---
 
 ## 📫 Contact Me
 
-<br>
-
 <div align="center">
-  <a href="mailto:nikita4development@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nikita4development@gmail.com-gray?style=flat-square&labelColor=red&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="mailto:nikita4development@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <div style="margin-top: 6px; font-size: 14px;">nikita4development@gmail.com</div>
 </div>
 
-<br><br>
 
-<hr>
+---
+
 <p align="center"><i>"Code is art, and web development is creativity."</i></p>
-<hr>
