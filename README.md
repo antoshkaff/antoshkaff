@@ -23,7 +23,7 @@
 ### ✨ Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" alt="HTML, CSS, JavaScript, React, TS icons" />
   </a>
 </p>
 
